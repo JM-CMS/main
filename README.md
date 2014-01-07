@@ -5,3 +5,6 @@ główny
 
 
 TAK
+
+
+lol
